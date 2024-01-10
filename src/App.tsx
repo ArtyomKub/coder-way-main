@@ -5,7 +5,12 @@ import './App.css';
 const App = () => {
     return (
         <div className='App'>
-            Simple HtML
+            <ul>
+                <li>CSS</li>
+                <li>HTML</li>
+                <li>Javascript</li>
+                <li>React</li>
+            </ul>
         </div>
     )
 }
