@@ -4,13 +4,15 @@ import './App.css';
 
 const App = () => {
     return (
-        <div className='App'>
-            <ul>
-                <li>CSS</li>
-                <li>HTML</li>
-                <li>Javascript</li>
-                <li>React</li>
-            </ul>
+        <div>
+            <div>
+                <ul>
+                    <li>CSS</li>
+                    <li>HTML</li>
+                    <li>Javascript</li>
+                    <li>React</li>
+                </ul>
+            </div>
         </div>
     )
 }
